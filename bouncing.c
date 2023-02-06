@@ -1,4 +1,4 @@
-// Compile with: gcc final.c -o final -lGL -lGLU -lglut -lm
+// Compile with: gcc bouncing.c -o bouncing -lGL -lGLU -lglut -lm
 #include <GL/gl.h>
 #include <GL/glu.h>
 #include <GL/glut.h>
